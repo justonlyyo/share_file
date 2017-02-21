@@ -1,0 +1,63 @@
+body{
+    background-color: #feeeed;
+}
+.my_main{
+    text-align: center;
+}
+.my_title{
+    text-align: center;
+}
+#drag_area{
+
+}
+#btn_wrap{
+    margin-top:10px;
+    margin-bottom:10px;
+    text-align: center;
+}
+ul>li{
+    list-style-type: none;
+}
+#dir_list, #drag_area{
+    overflow-y: scroll;
+        width:100%;
+    height:150px;
+    max-height: 150px;
+    background-color: ghostwhite;
+    broder:1px solid black;
+    box-shadow: -2px -2px 2px grey;
+}
+.header{
+    background-color: lightgrey;
+    box-shadow: 2px 2px 2px grey;
+}
+#my_title{
+    text-align: center;
+}
+#my_title h1{
+    color:#494e8f;
+    font-size:64px;
+    letter-spacing: 10px;
+}
+#login_div_title>h3{
+    color: grey;
+    font-size:18px;
+    text-align: center;
+}
+#login_main .row{
+    margin-top:25px;
+    margin-bottom: 25px;
+}
+.dir_line,.file_line{
+    font-size:10px;
+    line-height: 10px;
+}
+
+.my_left{
+    text-align: left;
+    padding-left:0px;
+    margin-top:5px;
+}
+.my_dir_name{
+
+}
